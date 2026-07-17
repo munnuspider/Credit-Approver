@@ -1,10 +1,3 @@
-# model_training.py
-# Split verbatim from credit_approver.ipynb (cells 32-44: train/test split, scaling, model training & evaluation)
-# No code was changed from the original notebook cells.
-# The single line below (import of `df`) is the only addition needed to connect
-# this file to data_preprocessing.py, since these two files used to be one notebook
-# sharing the same in-memory `df`.
-
 from data_preprocessing import df
 
 # train test split and feature scaling
