@@ -1,7 +1,3 @@
-# data_preprocessing.py
-# Split verbatim from credit_approver.ipynb (cells 0-31: data loading, cleaning, EDA, encoding)
-# No code was changed from the original notebook cells.
-
 import pandas as pd
 import numpy as mp
 import seaborn as sns
